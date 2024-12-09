@@ -1,0 +1,5 @@
+Leonardo Dicaprio,50,true,Americano,5000.0
+Ange Jolie,50,false,Americana,50000.0
+Brad Pitt,59,true,Americano,60000.0
+Meryl Streep,74,false,Americana,55000.0
+Tom Hanks,67,true,Americano,70000.0

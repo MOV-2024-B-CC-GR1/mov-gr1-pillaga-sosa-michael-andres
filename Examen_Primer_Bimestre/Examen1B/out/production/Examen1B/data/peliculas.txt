@@ -1,0 +1,7 @@
+Inception,2010,Ciencia Ficción,2.3,PG-13,Leonardo Dicaprio
+Titanic,1997,Romance,3.2,PG-13,Leonardo Dicaprio
+Maleficent,2014,Fantasía,1.9,PG,Angelina Jolie
+Fight Club,1999,Drama,2.2,R,Brad Pitt
+The Devil Wears Prada,2006,Comedia,1.9,PG-13,Meryl Streep
+Forrest Gump,1994,Drama,2.4,PG-13,Tom Hanks
+Cast Away,2000,Aventura,2.3,PG-13,Tom Hanks
