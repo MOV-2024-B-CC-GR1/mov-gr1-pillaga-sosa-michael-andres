@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Examen2Bim</string>
+    <string name="detalle_actor">Detalles del Actor</string>
+    <string name="nombre">Nombre:</string>
+    <string name="nacionalidad">Nacionalidad:</string>
+    <string name="edad">Edad:</string>
+    <string name="altura">Altura:</string>
+    <string name="latitud">Latitud:</string>
+    <string name="longitud">Longitud:</string>
+</resources>
